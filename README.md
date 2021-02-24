@@ -1,2 +1,0 @@
-# PakistanBeauty
-Pakistan Beauty
