@@ -1,0 +1,37 @@
+html,
+.tabbar {
+  display: flex;
+  flex-direction: row;
+  font-size: 18;
+  font-weight: 400;
+}
+
+.tabs {
+  color: rgb(52, 55, 206);
+  font-weight: 700;
+  padding-right: 20px;
+
+  padding-top: 15px;
+  text-decoration: none;
+  font-family: "Shippori Mincho", serif;
+}
+.heading {
+  font-family: "Dancing Script", cursive;
+  font-size: 65;
+  color: rgb(83, 68, 34);
+}
+
+.home_img {
+  padding-top: 12px;
+
+  display: flex;
+  flex-direction: row;
+}
+.home_start_para {
+  font-family: "Shippori Mincho", serif;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
